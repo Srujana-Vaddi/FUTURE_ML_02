@@ -5,29 +5,32 @@ Support Ticket Classification
 ## Future Interns - Machine Learning Task 2
 
 ## Overview
-This project is an NLP (Natural Language Processing) and Machine Learning based system developed as part of the Future Interns ML Internship Task 2.
 
-The system automatically classifies customer support tickets into different categories and predicts the priority level of the tickets.
+This project use NLP(Natural Language Processing) and Machine Learning.This project builds a system with mix of these two technologies..
+
+This system erases the conflicts faced by the customer support tickets by classifying tickets based on categories and predicts the priority
 
 ---
 
 # Features
-- Text preprocessing using NLP
+
+- Text preprocessing using NLP(access the ticket text)
 - Stopwords removal
-- TF-IDF Vectorization
+- TF-IDF Vectorization(converts text to numbers)
 - Ticket category prediction
-- Priority tagging system
+- Priority tagging system(assigning priority)
 - Data visualization
 - Machine Learning model training and evaluation
 
 ---
 
 # Technologies Used
+
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- NLTK
+- NLTK(Natural Language ToolKit
 - Matplotlib
 
 ---
@@ -44,6 +47,7 @@ The system automatically classifies customer support tickets into different cate
 ---
 
 # Dataset
+
 Customer Support Ticket Dataset from Kaggle.
 
 Dataset contains:
